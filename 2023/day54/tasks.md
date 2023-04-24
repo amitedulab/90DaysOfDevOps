@@ -1,6 +1,6 @@
 # Day 54: Understanding Infrastructure as Code and Configuration Management
 
-## What's the difference bhaiyya?
+
 
 When it comes to the cloud, Infrastructure as Code (IaC) and Configuration Management (CM) are inseparable. With IaC, a descriptive model is used for infrastructure management. To name a few examples of infrastructure: networks, virtual computers, and load balancers. Using an IaC model always results in the same setting.
 

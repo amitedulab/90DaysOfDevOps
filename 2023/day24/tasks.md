@@ -9,7 +9,7 @@ Let's make a beautiful CI/CD Pipeline for your Node JS Application 😍
 
 ## Did you finish Day 23?
 
-- Day 23 was all about Jenkins CI/CD, make sure you have done it and understood the concepts. As today You will be doing one Project End to End and adding it to your resume :)
+- Day 23 was all about Jenkins CI/CD, make sure you have done it and understood the concepts. As today You will be doing one Project End to End:)
   
 - As you have worked with Docker and Docker compose, it will be good to use it in a live project.
   

@@ -50,8 +50,7 @@ While creating an agent, be sure to separate rights, permissions, and ownership 
 
   
 
-- In case of any issues feel free to post on any Groups, [Discord](https://discord.gg/Q6ntmMtH) or [Telegram](https://t.me/trainwithshubham)
-
+- In case of any issues feel free to post on any Groups, [Discord](https://discord.gg/Q6ntmMtH) 
   
 
 Are you enjoying the #90DaysOfDevOps Challenge?

@@ -27,7 +27,8 @@ I can imagine catching up will be tough so take a small breather today and compl
 
   
 
-- Document the process from cloning the repository to adding webhooks, and Deployment, etc. as a README , go through [this example](https://github.com/LondheShubham153/fynd-my-movie/blob/master/README.md)
+- Document the process from cloning the repository to adding webhooks, and Deployment, etc. as a README , go through [this example]
+<!-- (https://github.com/LondheShubham153/fynd-my-movie/blob/master/README.md) -->
 
   
 
@@ -42,11 +43,7 @@ I can imagine catching up will be tough so take a small breather today and compl
 
 - Also it's important to keep smaller goals, as its a small task, think of a small Goal you can accomplish.
 
-  
-
-- Write about it using [this template](https://www.linkedin.com/posts/shubhamlondhe1996_taking-resolutions-and-having-goals-for-an-activity-7023858409762373632-s2J8?utm_source=share&utm_medium=member_desktop)
-
-  
+    
 
 - Have small goals and strategies to achieve them, also have a small reward for yourself.
 
